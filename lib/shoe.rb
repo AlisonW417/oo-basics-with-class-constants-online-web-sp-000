@@ -10,6 +10,7 @@ class Shoe
       if brand != BRANDES[]
         BRANDS << brand
       end 
+    end
   end
 
   def cobble
